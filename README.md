@@ -36,7 +36,7 @@ It detects faces in real-time, highlights them, and counts the total number of f
 
 ---
 
-### 🆕 Detecting New Faces
+### 🤕 Detecting New Faces
 The system allows adding new faces to the dataset for future recognition.
 
 ![Detect New Face](assets/detect_new_face.png)
@@ -73,7 +73,7 @@ A display of registered face images used for attendance recognition.
 
 ## 🔧 Hardware Overview
 
-### 🧰 Required Components
+### 🪰 Required Components
 - ESP32-CAM Module
 - FTDI Programmer
 - Female-to-Female Jumper Wires
@@ -134,5 +134,6 @@ Visual flow of the face detection and attendance marking process.
 
 ---
 
-✅ **Note:**  
+👉 **Note:**  
 This project combines software and hardware development for an end-to-end face-based attendance system — ideal for classrooms, offices, or secure access control scenarios.
+
