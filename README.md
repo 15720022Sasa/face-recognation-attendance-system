@@ -1,3 +1,16 @@
+# Face Recognition Attendance System
+
+A C++ project for automating attendance systems using facial recognition techniques, built on top of OpenCV libraries.
+
+## 💡 Features
+- Real-time face detection and recognition
+- Automated attendance marking
+- Use of OpenCV for computer vision tasks
+
+## 📌 Tech Stack
+- C++
+- OpenCV
+
 # Software Code
 # web camera
 when we run the software code in this project with convert the url to your local device..
